@@ -12,7 +12,7 @@ Using the Quantum Teleportation Protocol to transfer data with extreme precision
 - [Nandha Kishore B](https://github.com/nandakishore988)
 - [Akhil Bodi](https://github.com/AkhilBodi)
 
-# <p align="Center">TLTR :stuck_out_tongue_winking_eye: Check the <a href="https://github.com/Jsmka/Quantum-Data-Feeder/blob/main/Quantum%20Data%20Feeder.pdf"> Presentation </a></p>
+# <p align="Center">TLTR :stuck_out_tongue_winking_eye: Check the <a href="https://github.com/Jsmka/Quantum-Data-Feeder/blob/main/Quantum%20Data%20Feeder.pdf"> Presentation </a>, <a href="https://youtu.be/H6NYoF0-iDM"> QFTP Oral Presentation </a>, and <a href="https://youtu.be/wCne5Gr6L4g"> QITP Oral Presentation </a></p>
 
 ### The Issue :
 The transfer of data is limited in classical computing and information cannot be transferred with absolute privacy.
