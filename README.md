@@ -5,11 +5,11 @@
 Using the Quantum Teleportation Protocol to transfer data with extreme precision.
 
 ### Team :
--Mekala Kartik
--Chethan Reddy Chinthaparthi
--Rajaramachandran Sivaraman
--Nandha Kishore B
--Akhil Bodi
+- Mekala Kartik
+- Chethan Reddy Chinthaparthi
+- Rajaramachandran Sivaraman
+- Nandha Kishore B
+- Akhil Bodi
 
 ### The Issue :
 The transfer of data is limited in classical computing and information cannot be transferred with absolute privacy.
@@ -38,6 +38,7 @@ We used totally 24 Qubits for File Teleportation and 27 Qubits for Image Telepor
 
 #### Step-3 :
 The Teleported data is converted back into the respective format of Input data.
+
 ![OutputImage](https://user-images.githubusercontent.com/66595938/142349013-647daa06-9027-4559-97e6-f0721459d2e5.png)
 ![OutputText](https://user-images.githubusercontent.com/66595938/142349006-1c06b305-a192-4b66-8deb-5f92a37fbffc.png)
 
