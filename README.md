@@ -42,4 +42,20 @@ The Teleported data is converted back into the respective format of Input data.
 ![OutputText](https://user-images.githubusercontent.com/66595938/142349006-1c06b305-a192-4b66-8deb-5f92a37fbffc.png)
 
 
-A GUI
+## Tech Stack :
+-Qiskit
+-Python
+-PyQt
+
+
+## Demo :
+Quantum-Data-Feeder/Qiskit Global Hackathon/QFTP/ - Text file is transfered
+Quantum-Data-Feeder/Qiskit Global Hackathon/QITP/ - PNG file is transfered
+
+
+## <u>GUI</u>
+![gui-1](https://user-images.githubusercontent.com/66595938/142350664-37551c14-6681-445f-b701-59611e311db4.jpeg)
+
+![gui-2](https://user-images.githubusercontent.com/66595938/142350700-8496ac44-9be6-4230-8b5e-a067700066ab.jpeg)
+
+![gui-3](https://user-images.githubusercontent.com/66595938/142350729-d33a43b4-16ba-419b-8b2b-ccd17cd34586.jpg)
