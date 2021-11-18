@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="qdf">
+    <file>icons8-electronics-64.png</file>
+    <file>icons8-check-file-64.png</file>
+    <file>qdflogo.png</file>
+    <file>icons8-cancel-64.png</file>
+    <file>icons8-binary-file-64.png</file>
+    <file>icons8-processor-64.png</file>
+    <file>quantum-computing.png</file>
+  </qresource>
+</RCC>
