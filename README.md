@@ -5,7 +5,7 @@
 Using the Quantum Teleportation Protocol to transfer data with extreme precision.
 
 ### Team :
-- Mekala Kartik []
+- Mekala Kartik [https://github.com/Jsmka/Quantum-Data-Feeder]
 - Chethan Reddy Chinthaparthi [https://github.com/SRRC-1334/QDF]
 - Rajaramachandran Sivaraman
 - Nandha Kishore B
