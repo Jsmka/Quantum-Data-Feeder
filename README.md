@@ -5,8 +5,8 @@
 Using the Quantum Teleportation Protocol to transfer data with extreme precision.
 
 ### Team :
-- Mekala Kartik
-- Chethan Reddy Chinthaparthi
+- Mekala Kartik []
+- Chethan Reddy Chinthaparthi [https://github.com/SRRC-1334/QDF]
 - Rajaramachandran Sivaraman
 - Nandha Kishore B
 - Akhil Bodi
