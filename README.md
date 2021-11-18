@@ -10,7 +10,7 @@ Using the Quantum Teleportation Protocol to transfer data with extreme precision
 - [Chethan Reddy Chinthaparthi](https://github.com/Chethan2003)
 - [Rajaramachandran Sivaraman](https://github.com/SRRC-1334)
 - [Nandha Kishore B](https://github.com/nandakishore988)
-- Akhil Bodi
+- [Akhil Bodi](https://github.com/AkhilBodi)
 
 # <p align="Center">TLTR :stuck_out_tongue_winking_eye: Check the <a href="https://github.com/Jsmka/Quantum-Data-Feeder/blob/main/Quantum%20Data%20Feeder.pdf"> Presentation </a></p>
 
