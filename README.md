@@ -3,6 +3,8 @@
 
 ### Qiskit Global Hackathon 2021
 Using the Quantum Teleportation Protocol to transfer data with extreme precision.
+<p align="center"><img src="https://github.com/Jsmka/Quantum-Data-Feeder/blob/main/Qiskit%20Global%20Hackathon/GUI/img/qdflogo.png">
+</p>
 
 ### Team :
 - [Mekala Kartik](https://github.com/Jsmka)
