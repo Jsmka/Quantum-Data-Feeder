@@ -50,9 +50,9 @@ The Teleported data is converted back into the respective format of Input data.
 
 
 ## Demo :
-Quantum-Data-Feeder/Qiskit Global Hackathon/QFTP/ - Text file is transfered
-Quantum-Data-Feeder/Qiskit Global Hackathon/QITP/ - PNG file is transfered
+Quantum-Data-Feeder/Qiskit Global Hackathon/QFTP/ - for Text file
 
+Quantum-Data-Feeder/Qiskit Global Hackathon/QITP/ - for PNG file
 
 ## <u>GUI</u>
 ![gui-1](https://user-images.githubusercontent.com/66595938/142350664-37551c14-6681-445f-b701-59611e311db4.jpeg)
