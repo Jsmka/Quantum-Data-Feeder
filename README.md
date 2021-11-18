@@ -44,9 +44,9 @@ The Teleported data is converted back into the respective format of Input data.
 
 
 ## Tech Stack :
--Qiskit
--Python
--PyQt
+- Qiskit
+- Python
+- PyQt
 
 
 ## Demo :
