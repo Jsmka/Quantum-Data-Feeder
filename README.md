@@ -57,7 +57,7 @@ Quantum-Data-Feeder/Qiskit Global Hackathon/QITP/ - for PNG file
 ### <u>GUI :</u>
 ![gui-1](https://user-images.githubusercontent.com/66595938/142350664-37551c14-6681-445f-b701-59611e311db4.jpeg)
 
-![gui-2](https://user-images.githubusercontent.com/66595938/142350700-8496ac44-9be6-4230-8b5e-a067700066ab.jpeg)
+![gui-2](https://user-images.githubusercontent.com/66595938/142608967-66481272-bc69-438c-a961-09d1b9121310.png)
 
 ![gui-3](https://user-images.githubusercontent.com/66595938/142350729-d33a43b4-16ba-419b-8b2b-ccd17cd34586.jpg)
 
